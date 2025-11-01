@@ -1,9 +1,3 @@
-# Shiyan Wei
-Personal website for Shiyan Wei.
-
-## About
-This is a personal academic website hosted on GitHub Pages, featuring sections for education, research interests, publications, and contact information.
-
 
 ## Contact Info
 

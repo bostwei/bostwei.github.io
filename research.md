@@ -17,7 +17,8 @@ layout: default
 
 
 ### Age Structure and Housing Affordability
-* with [Erica Moszkowski](https://www.ericamoszkowski.com/home) and [Gregor Schubert](https://sites.google.com/view/gregorschubert)
+*with [Erica Moszkowski](https://www.ericamoszkowski.com/home) and [Gregor Schubert](https://sites.google.com/view/gregorschubert)*
+
 * **Presentations:** AREUEA National Conference (2025)
 
 

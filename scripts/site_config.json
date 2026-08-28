@@ -1,0 +1,29 @@
+{
+  "cv_tex": "/Users/shiyan/Library/CloudStorage/Dropbox/Apps/Overleaf/Shiyan CV/Shiyan_Wei_CV.tex",
+  "google_sites": {
+    "home": "https://sites.google.com/view/shiyanwei/home",
+    "research": "https://sites.google.com/view/shiyanwei/research",
+    "teaching": "https://sites.google.com/view/shiyanwei/teaching"
+  },
+  "cv_download": "https://www.dropbox.com/scl/fi/6c18vqjr0tv0atf17jxrp/Shiyan_CV.pdf?rlkey=6x4ku0p8tjca74opp8wdwfgz2&st=utjgjd3c&dl=0",
+  "coauthors": {
+    "Chong Huang": "https://chonghuang.weebly.com/",
+    "Erica Moszkowski": "https://www.ericamoszkowski.com/home",
+    "Gregor Schubert": "https://sites.google.com/view/gregorschubert"
+  },
+  "paper_overrides": {
+    "Data Ownership, Data Production, and Lending Market Competition": {
+      "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6562338"
+    },
+    "Large Investor, Information Advantage and the Fragility of the Asset Market": {
+      "subtitle": "Job Market Paper"
+    },
+    "The Behavior of Generative AI Assists Investors and its Impact on the Asset Pricing": {
+      "presentations": "FMA \"New Ideas\" Session (2025)"
+    },
+    "Age Structure and Housing Affordability": {
+      "coauthor_note": "* presented by coauthors"
+    }
+  },
+  "nav": "[Home](/) | [Research](/research) | [Teaching](/teaching) | [CV](/cv)"
+}

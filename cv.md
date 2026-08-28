@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) | [Research](/research) | [Teaching](/teaching) | [CV](/cv)
+
 ## CV
 
-You can view my CV [here](https://www.dropbox.com/scl/fi/0ijw6202hoix4v9st5wly/Shiyan_Wei_CV.pdf?rlkey=x3uasmsakkr7q0mwk02a0mbhq&st=ejr7hiv0&dl=0)
+You can download my CV [here](https://www.dropbox.com/scl/fi/6c18vqjr0tv0atf17jxrp/Shiyan_CV.pdf?rlkey=6x4ku0p8tjca74opp8wdwfgz2&st=utjgjd3c&dl=0).

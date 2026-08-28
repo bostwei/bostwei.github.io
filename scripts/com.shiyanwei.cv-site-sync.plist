@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.shiyanwei.cv-site-sync</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>/Users/shiyan/Library/CloudStorage/Dropbox/Apps/bostwei.gitbub.io/bostwei.github.io/scripts/sync_from_cv.py</string>
+    <string>--debounce</string>
+    <string>5</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/shiyan/Library/CloudStorage/Dropbox/Apps/bostwei.gitbub.io/bostwei.github.io</string>
+  <key>WatchPaths</key>
+  <array>
+    <string>/Users/shiyan/Library/CloudStorage/Dropbox/Apps/Overleaf/Shiyan CV/Shiyan_Wei_CV.tex</string>
+  </array>
+  <key>ThrottleInterval</key>
+  <integer>15</integer>
+  <key>StandardOutPath</key>
+  <string>/tmp/shiyanwei-cv-site-sync.log</string>
+  <key>StandardErrorPath</key>
+  <string>/tmp/shiyanwei-cv-site-sync.err</string>
+</dict>
+</plist>
